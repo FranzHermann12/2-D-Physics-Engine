@@ -1,4 +1,4 @@
-# PyPhysics2D
+# Physics2D
 
 A 2D physics engine built from scratch in Python, featuring rigid-body movement, collision detection, collision response, gravity, and an interactive Pygame sandbox.
 
