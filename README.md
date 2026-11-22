@@ -18,6 +18,8 @@ A 2D physics engine built from scratch in Python, featuring rigid-body movement,
 
 Run the sandbox to see circles falling, colliding, and interacting with rectangular platforms.
 
+![PyPhysics2D Simulation](assets/screenshot.png)
+
 ## Technologies
 
 - Python
