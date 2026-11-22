@@ -130,5 +130,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 GitHub: [@FranzHermann12](https://github.com/FranzHermann12)
 
 ---
-
-*Built from scratch with Python, mathematics, and curiosity.*
